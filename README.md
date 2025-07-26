@@ -1,10 +1,23 @@
-# Olá, sou Leonardo Alves, que bom te ver por aqui ☕️📚!
+# 👋 Olá, eu sou Leonardo!
 
-<p>Como estudante de Análise e Desenvolvimento de Sistemas, estou aprofundando meu conhecimento em diversas linguagens de programação, como HTML, JavaScript, CSS, SQL básico e C básico.</p>
-<p>Atualmente, estou trabalhando em vários projetos para aprimorar minhas habilidades e aplicar os conceitos aprendidos. Essa jornada tem sido essencial para meu crescimento profissional, pois me permite explorar diferentes tecnologias e desenvolver soluções cada vez mais robustas e eficientes. Estou animado para continuar aprendendo e contribuindo para a área de tecnologia com projetos inovadores e de qualidade 🚀.</p>
-<p>"Programar é como fazer um bolo: se você esquecer um ponto e vírgula, tudo desmorona!"</p>
+**Estudante de Segurança da Informação | Aspirante a Ethical Hacker**
 
-<div>
-<a href="https://github.com/leonardoasantos1">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoasantos1&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+📚 Cursando 4º semestre de **Análise e Desenvolvimento de Sistemas**  
+🔒 Em transição para **Cibersegurança** com foco em:  
+- Análise de vulnerabilidades  
+- Hardening de sistemas  
+- Resposta a incidentes  
+
+## 🛡️ Certificações & Skills
+- **Fortinet Certified Fundamentals (FCF)**  
+- **Linguagens**: `Python` (básico) · `JavaScript` · `HTML/CSS`  
+- **Segurança**: `UFW` · `Análise de logs` · `VirtualBox` · `Nmap` (noções)  
+- **Estudos atuais**: Arquitetura de redes  
+
+## 🔧 Projetos Destacados
+1. **[Hardening Lab em Ubuntu](link)**  
+   - Configuração de firewall UFW  
+   - Gestão de atualizações de segurança  
+   - Controle de acesso mínimo para usuários  
+
+> "A segurança não é um produto, mas um processo." — Bruce Schneier  
